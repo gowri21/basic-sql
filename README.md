@@ -12,4 +12,8 @@
 
 ![image](https://user-images.githubusercontent.com/100371736/156542412-d741bc27-8521-40e2-a596-f272016b43f2.png)
 
+4. Average temperature of the states
+
+![image](https://user-images.githubusercontent.com/100371736/156544077-0a7d8247-8449-4f07-82e8-0c967ee22c88.png)
+
 
