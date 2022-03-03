@@ -1,0 +1,7 @@
+SELECT 
+city_name,
+MAX(aqi) AS Maximum_AQI
+FROM 
+`bigquery-public-data.epa_historical_air_quality.co_daily_summary`
+WHERE LOWER(state_name)='oklahoma'
+GROUP BY city_name
