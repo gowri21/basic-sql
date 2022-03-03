@@ -16,4 +16,12 @@
 
 ![image](https://user-images.githubusercontent.com/100371736/156544077-0a7d8247-8449-4f07-82e8-0c967ee22c88.png)
 
+5. Number of observations taken from each city in the state of Alabama
+
+![image](https://user-images.githubusercontent.com/100371736/156545935-185b44e7-9f6f-4313-8656-8633acd7b352.png)
+
+6. Cities with the lowest AQI in the year 2019
+
+![image](https://user-images.githubusercontent.com/100371736/156546186-0cdb7e7f-5f7a-41d3-aac7-aa71b95ba906.png)
+
 
