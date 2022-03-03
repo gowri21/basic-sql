@@ -25,3 +25,8 @@
 ![image](https://user-images.githubusercontent.com/100371736/156546186-0cdb7e7f-5f7a-41d3-aac7-aa71b95ba906.png)
 
 
+7. Maximum AQI of the cities in the state of Oklahoma
+
+![image](https://user-images.githubusercontent.com/100371736/156548253-3cc2cd1e-7d6b-48ff-b4f4-2c688752d4ea.png)
+
+
