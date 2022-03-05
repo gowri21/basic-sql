@@ -29,4 +29,12 @@
 
 ![image](https://user-images.githubusercontent.com/100371736/156548253-3cc2cd1e-7d6b-48ff-b4f4-2c688752d4ea.png)
 
+8. An inner joint table of the AQI of O3 and NO2 from 2019 on latitude and longitude 
+
+<img width="482" alt="image" src="https://user-images.githubusercontent.com/100371736/156861508-83b40e1a-462f-42fa-8adc-7906424cec61.png">
+
+9. Inner join of tables containing AQI of O3, CO and NO2
+
+<img width="318" alt="image" src="https://user-images.githubusercontent.com/100371736/156861741-c0907857-0446-4a50-bf21-6f7bc1acc8ee.png">
+
 
