@@ -37,4 +37,7 @@
 
 <img width="318" alt="image" src="https://user-images.githubusercontent.com/100371736/156861741-c0907857-0446-4a50-bf21-6f7bc1acc8ee.png">
 
-10. 
+10. Left join showing pressure and temperature only for the cities in which temperature was recorded
+
+<img width="262" alt="image" src="https://user-images.githubusercontent.com/100371736/156862662-a7b4ff12-6e22-4d08-90a7-531460f72078.png">
+
